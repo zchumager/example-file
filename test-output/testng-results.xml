@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="356" started-at="2017-02-06T03:47:56Z" finished-at="2017-02-06T03:47:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="356" started-at="2017-02-06T03:47:56Z" finished-at="2017-02-06T03:47:56Z">
+      <class name="net.me.test.testcases.TestCase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:net.me.test.testcases.TestCase@5056dfcb]" name="setup" is-config="true" duration-ms="14" started-at="2017-02-05T22:47:56Z" finished-at="2017-02-05T22:47:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createFiles()[pri:1, instance:net.me.test.testcases.TestCase@5056dfcb]" name="createFiles" duration-ms="12" started-at="2017-02-05T22:47:56Z" finished-at="2017-02-05T22:47:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFiles -->
+        <test-method status="PASS" signature="testFileInputStream()[pri:2, instance:net.me.test.testcases.TestCase@5056dfcb]" name="testFileInputStream" duration-ms="206" started-at="2017-02-05T22:47:56Z" finished-at="2017-02-05T22:47:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFileInputStream -->
+        <test-method status="PASS" signature="testFileWriter()[pri:3, instance:net.me.test.testcases.TestCase@5056dfcb]" name="testFileWriter" duration-ms="45" started-at="2017-02-05T22:47:56Z" finished-at="2017-02-05T22:47:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFileWriter -->
+        <test-method status="PASS" signature="testBufferedWriter()[pri:4, instance:net.me.test.testcases.TestCase@5056dfcb]" name="testBufferedWriter" duration-ms="23" started-at="2017-02-05T22:47:56Z" finished-at="2017-02-05T22:47:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBufferedWriter -->
+      </class> <!-- net.me.test.testcases.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

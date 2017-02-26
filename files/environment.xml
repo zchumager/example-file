@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<environment>
+	<database>
+		<host>192.68.11.6</host>
+		<port>1987</port>
+		<username>user1</username>
+		<password>!z3P4ssw0rd@</password>
+		<schema>HUMAN_RESOURCERS</schema>
+		<database-name>CANDIDATES</database-name>
+	</database>
+</environment>
